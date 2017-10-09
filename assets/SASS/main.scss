@@ -1,0 +1,54 @@
+header {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 4%;
+    font-size: 15px;
+    background-color: darkorange;
+    color: white;
+    height: 100px;
+    width: 100%;
+}
+header h1 {
+    background-color: darkorange;
+    margin-top: 0;
+    margin-left: 40%;
+}
+
+.caja {
+    background-color: antiquewhite;
+}
+
+.lista .cl1, .cl2, .cl3 {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    align-content: center;
+    margin-top: 2%;
+    height: 40px;
+}
+.lista .cl4 {
+    background-color: darkorange;
+    color: white;
+    font-size: 15px;
+    margin-top: 2%;
+    height: 40px;
+}
+p {
+    font-size: 16px;
+}
+
+.parrafo {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+.final {
+    margin-top: 5%;
+    background-color: black;
+    color: white;
+    height: 80px;
+}
+.final p {
+    margin-top: 2%;
+}
